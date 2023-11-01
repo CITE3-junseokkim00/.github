@@ -3,7 +3,12 @@
 > a Multiple Choice Question generator based on the given document
 
 ### REPO
-
+[`frontend`](https://github.com/CITE3-junseokkim00/frontend)
+[`api-server`](https://github.com/CITE3-junseokkim00/api-server)
+[`Question-Generation`](https://github.com/CITE3-junseokkim00/Question-Generation)
+[`Keyphrase-Extraction`](https://github.com/CITE3-junseokkim00/Keyphrase-Extraction)
+[`Text-Summarization`](https://github.com/CITE3-junseokkim00/Text-Summarization)
+[`DOC2MCQ`](https://github.com/CITE3-junseokkim00/DOC2MCQ)
 
 ### Weekly report
 + [Week 1,2](https://docs.google.com/presentation/d/1GFwomx3Ev8wgEe_8iWUWCe2NphnmkmtfVh1wUjnFJEw/edit#slide=id.p)
