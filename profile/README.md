@@ -3,7 +3,7 @@
 > a Multiple Choice Question generator based on the given document
 
 ### REPO
-[`frontend`](https://github.com/CITE3-junseokkim00/frontend)
+[`web`](https://github.com/CITE3-junseokkim00/web)
 [`api-server`](https://github.com/CITE3-junseokkim00/api-server)
 [`Question-Generation`](https://github.com/CITE3-junseokkim00/Question-Generation)
 [`Keyphrase-Extraction`](https://github.com/CITE3-junseokkim00/Keyphrase-Extraction)
